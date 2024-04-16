@@ -1,0 +1,343 @@
+{
+  "vaultName": "Obsidian_TIS04",
+  "lastExport": 1713275631493,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title code-styler-style-inline code-styler code-styler-gutter-highlight",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Bases de Dados/Aula.md",
+    "Bases de Dados/Matéria.md",
+    "Bases de Dados/SQL.md",
+    "C Language/Apontadores.md",
+    "C Language/Ciclos.md",
+    "C Language/Files.md",
+    "C Language/Functions.md",
+    "C Language/Info.md",
+    "C Language/Language.md",
+    "C Language/Libraries.md",
+    "C Language/Matrix.md",
+    "C Language/Pre-Processador.md",
+    "C Language/Structs.md",
+    "CISCO/CISCO - Introdução hardware.md",
+    "CISCO/CISCO - Introdução redes.md",
+    "CISCO/CISCO - JavaScript.md",
+    "CISCO/CISCO - Operating Systems Basics.md",
+    "JAVA/Aula.md",
+    "JAVA/Info.md",
+    "JAVA/Linguagem JAVA.md",
+    "Redes/Aula.md",
+    "Redes/Equipamento.md",
+    "Redes/Forms.md",
+    "Redes/Materia.md",
+    "Redes/Perguntas.md",
+    "Redes/Siglas.md",
+    "WEB/CSS.md",
+    "WEB/HTML.md",
+    "WEB/Info.md",
+    "WEB/JavaScript 👩‍💻.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "Bases de Dados/Aula.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 6,
+      "exportedPath": "Bases de Dados/Aula.html",
+      "dependencies": []
+    },
+    "Bases de Dados/Matéria.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 10195,
+      "exportedPath": "Bases de Dados/Matéria.html",
+      "dependencies": []
+    },
+    "Bases de Dados/SQL.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 2180,
+      "exportedPath": "Bases de Dados/SQL.html",
+      "dependencies": []
+    },
+    "C Language/Apontadores.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 4020,
+      "exportedPath": "C Language/Apontadores.html",
+      "dependencies": []
+    },
+    "C Language/Ciclos.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 1279,
+      "exportedPath": "C Language/Ciclos.html",
+      "dependencies": []
+    },
+    "C Language/Files.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 8012,
+      "exportedPath": "C Language/Files.html",
+      "dependencies": []
+    },
+    "C Language/Functions.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 1084,
+      "exportedPath": "C Language/Functions.html",
+      "dependencies": []
+    },
+    "C Language/Info.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 371,
+      "exportedPath": "C Language/Info.html",
+      "dependencies": []
+    },
+    "C Language/Language.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 1810,
+      "exportedPath": "C Language/Language.html",
+      "dependencies": []
+    },
+    "C Language/Libraries.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 1278,
+      "exportedPath": "C Language/Libraries.html",
+      "dependencies": []
+    },
+    "C Language/Matrix.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 830,
+      "exportedPath": "C Language/Matrix.html",
+      "dependencies": []
+    },
+    "C Language/Pre-Processador.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 3575,
+      "exportedPath": "C Language/Pre-Processador.html",
+      "dependencies": []
+    },
+    "C Language/Structs.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 4481,
+      "exportedPath": "C Language/Structs.html",
+      "dependencies": []
+    },
+    "CISCO/CISCO - Introdução hardware.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 21011,
+      "exportedPath": "CISCO/CISCO - Introdução hardware.html",
+      "dependencies": []
+    },
+    "CISCO/CISCO - Introdução redes.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 101299,
+      "exportedPath": "CISCO/CISCO - Introdução redes.html",
+      "dependencies": []
+    },
+    "CISCO/CISCO - JavaScript.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 0,
+      "exportedPath": "CISCO/CISCO - JavaScript.html",
+      "dependencies": []
+    },
+    "CISCO/CISCO - Operating Systems Basics.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 4297,
+      "exportedPath": "CISCO/CISCO - Operating Systems Basics.html",
+      "dependencies": []
+    },
+    "JAVA/Aula.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 113,
+      "exportedPath": "JAVA/Aula.html",
+      "dependencies": []
+    },
+    "JAVA/Info.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 87601,
+      "exportedPath": "JAVA/Info.html",
+      "dependencies": []
+    },
+    "JAVA/Linguagem JAVA.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 24857,
+      "exportedPath": "JAVA/Linguagem JAVA.html",
+      "dependencies": []
+    },
+    "Redes/Aula.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 0,
+      "exportedPath": "Redes/Aula.html",
+      "dependencies": []
+    },
+    "Redes/Equipamento.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 1650,
+      "exportedPath": "Redes/Equipamento.html",
+      "dependencies": []
+    },
+    "Redes/Forms.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 6828,
+      "exportedPath": "Redes/Forms.html",
+      "dependencies": []
+    },
+    "Redes/Materia.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 51990,
+      "exportedPath": "Redes/Materia.html",
+      "dependencies": []
+    },
+    "Redes/Perguntas.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 6425,
+      "exportedPath": "Redes/Perguntas.html",
+      "dependencies": []
+    },
+    "Redes/Siglas.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 3842,
+      "exportedPath": "Redes/Siglas.html",
+      "dependencies": []
+    },
+    "WEB/CSS.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 16555,
+      "exportedPath": "WEB/CSS.html",
+      "dependencies": []
+    },
+    "WEB/HTML.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 25853,
+      "exportedPath": "WEB/HTML.html",
+      "dependencies": []
+    },
+    "WEB/Info.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 1102,
+      "exportedPath": "WEB/Info.html",
+      "dependencies": []
+    },
+    "WEB/JavaScript 👩‍💻.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 34269,
+      "exportedPath": "WEB/JavaScript 👩‍💻.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 387,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1713275631493,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
